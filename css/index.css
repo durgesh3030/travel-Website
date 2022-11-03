@@ -7,7 +7,7 @@
     list-style: none;
 }
 
-/* Conmmon Classes */
+
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -50,7 +50,7 @@ i.fa.fa-arrow-up{
 div#toggle-btn{
     display: none;
 }
-/* header */
+
 
 nav{
     position: fixed;
@@ -91,7 +91,7 @@ nav{
     position: relative;
 
 }
-/* navigation-fixed */
+
 .nav-fixed{
     background-color: #fff;
     box-shadow: 2px 2px 10px #bbb;
@@ -121,7 +121,7 @@ header{
     background-blend-mode: overlay;
 }
 
-/* video css */
+
 .video{
     position: absolute;
     width: 100%;
@@ -178,7 +178,7 @@ video#video{
     margin: auto;
 }
 
-/* Welcome-text section */
+
 section#welcome-text h2{
     color: #343a40;
     font-size: 45px;
@@ -193,7 +193,7 @@ section#welcome-text p{
     text-align: center;
     font-size: 16px;
 }
-/* Slides Section */
+
 .slides{
     display: flex;
     justify-content: center;
@@ -253,7 +253,7 @@ section#welcome-text p{
 .slide_8{ 
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/recipe_slides/recipe7.jpg);
 }
-/* book section */
+
 #book{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/explore-bg.jpg);
     background-attachment: fixed;
@@ -325,7 +325,7 @@ input[type="submit"]{
     transition: all 0.5s ease;
     cursor: pointer;
 }
-/* Gallery Section */
+
 section#gallery{
     margin: 100px 0px;
 }
@@ -366,7 +366,7 @@ button.filter-button:focus{
     color: #00a8c5;
     outline: none;
 }
-/* Water - Slider */
+
 #water-slider{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/holyday-bg.jpg);
     background-attachment: fixed;
@@ -407,7 +407,7 @@ button.filter-button:focus{
 .owl-carousel .owl-item img:hover{
     transform: scale(1.1,1.1);
 }
-/* Blog Section */
+
 section#blog h3{
     text-align: center;
 }
@@ -461,7 +461,7 @@ section#blog{
     position: relative;
 } */
 
-/* Footer  */
+
 
 footer{
     border-top: 3px solid #00a8c5;
