@@ -53,9 +53,10 @@ div#toggle-btn{
 
 
 nav{
-    position: fixed;
+    position: absolute;
     width: 100%;
     z-index: 99;
+    
     /* background-color: red; */
 }
 .menu-par{
